@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xlmns="http://venus.sod.asu.edu/WSRepository/xml" xlmns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
+  <Hotel Rating=3.5>
+    <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
+    <Phone>480-897-7444</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4400</Number>
+      <Street>Rural</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.0>
+    <Name>Embassy Sonesta ES Suites Tempe</Name>
+    <Phone>480-756-2122</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5075</Number>
+      <Street>Priest</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=3.0>
+    <Name>Motel 6 Phoenix Tempe - Broadway - Asu</Name>
+    <Phone>480-967-8696</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>513</Number>
+      <Street>Broadway</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+      
+  <Hotel Rating=4.5>
+    <Name>Fairfield Inn & Suites ny Mariott Phoenix Tempe</Name>
+    <Phone>480-967-7161</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2222</Number>
+      <Street>Priest</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.0>
+    <Name>DoubleTree by Hilton Hotel Phoenix Tempe</Name>
+    <Phone>480-967-1441</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2100</Number>
+      <Street>Priest</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.0>
+    <Name>Mariott Phoenix Resport Tempe at the Buttes</Name>
+    <Phone>602-225-9000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2000</Number>
+      <Street>Westcourt</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.5>
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>60</Number>
+      <Street>5th</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.5>
+    <Name>Hampton Inn & Suites Phoenix Tempe</Name>
+    <Phone>480-941-3441</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1415</Number>
+      <Street>Scottsdale</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.0>
+    <Name>Parkview Scottsdale Resort</Name>
+    <Phone>602-941-1202</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7707</Number>
+      <Street>McDowell</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85257></Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating=4.0>
+    <Name>GrenTree Inn & Suites Phoenix Sky Harbor</Name>
+    <Phone>602-438-8688</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4234</Number>
+      <Street>48th</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85040</Zip>
+    </Address>
+  </Hotel>
+
+</xml>
