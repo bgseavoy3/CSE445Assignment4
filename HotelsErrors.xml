@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns="https://github.com/bgseavoy3/CSE445Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="https://github.com/bgseavoy3/CSE445Assignment4 https://bgseavoy3.github.io/CSE445Assignment4/Hotels.xsd">
+<Hotels xmlns="https://invalid.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="differentSchemeToNotMessUpXSD.xsd">
   <Hotels Rating="3.5"> <!-- Error 1-->
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
