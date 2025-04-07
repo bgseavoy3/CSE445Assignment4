@@ -20,7 +20,7 @@
       <Street>Priest</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
 
@@ -32,7 +32,7 @@
       <Street>Broadway</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
       
@@ -44,7 +44,7 @@
       <Street>Priest</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
 
@@ -56,7 +56,7 @@
       <Street>Priest</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
 
@@ -68,7 +68,7 @@
       <Street>Westcourt</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
 
@@ -80,7 +80,7 @@
       <Street>5th</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
 
@@ -92,7 +92,7 @@
       <Street>Scottsdale</Street>
       <City>Tempe</City>
       <State>AZ</State>
-      <Zip>85282></Zip>
+      <Zip>85282</Zip>
     </Address>
   </Hotel>
 
@@ -120,4 +120,4 @@
     </Address>
   </Hotel>
 
-</xml>
+</Hotels>
