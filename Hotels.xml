@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns="https://bgseavoy3.github.io/CSE445Assignment4/Hotels.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="https://bgseavoy3.github.io/CSE445Assignment4/Hotels.xsd">
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://bgseavoy3.github.io/CSE445Assignment4/Hotels.xsd">
   <Hotel Rating="3.5">
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
