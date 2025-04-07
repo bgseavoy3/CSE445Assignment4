@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/bgseavoy3/CSE445Assignment4" xmlns="https://github.com/bgseavoy3/CSE445Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" elementFormDefault="unqualified">
- <xs:element name="Hotels" type="hotelData"/>
-  <xs:complexType name="type">
-    <xs:sequence>
-      <xs:element name="Hotel" type="hotelData" maxOccurs="unbounded"/>
-    </xs:sequence>
-  </xs:complexType>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/bgseavoy3/CSE445Assignment4" xmlns="https://github.com/bgseavoy3/CSE445Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" elementFormDefault="qualified">
+  <xs:element name="Hotels">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Hotel" maxOccurs="unbounded" type="hotelData"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
   <xs:complexType name="hotelData">
     <xs:sequence>
       <xs:element name="Name" type="xs:string"/>
@@ -25,5 +26,4 @@
     </xs:sequence>
     <xs:attribute name="Rating" type="xs:decimal" use="required"/>
   </xs:complexType>
-
 </xs:schema>
