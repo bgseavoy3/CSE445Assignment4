@@ -37,7 +37,7 @@
   </Hotel>
       
   <Hotel Rating="4.5">
-    <Name>Fairfield Inn & Suites ny Mariott Phoenix Tempe</Name>
+    <Name>Fairfield Inn and Suites ny Mariott Phoenix Tempe</Name>
     <Phone>480-967-7161</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>2222</Number>
@@ -85,7 +85,7 @@
   </Hotel>
 
   <Hotel Rating="4.5">
-    <Name>Hampton Inn & Suites Phoenix Tempe</Name>
+    <Name>Hampton Inn and Suites Phoenix Tempe</Name>
     <Phone>480-941-3441</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>1415</Number>
@@ -109,7 +109,7 @@
   </Hotel>
 
   <Hotel Rating="4.0">
-    <Name>GrenTree Inn & Suites Phoenix Sky Harbor</Name>
+    <Name>GrenTree Inn and Suites Phoenix Sky Harbor</Name>
     <Phone>602-438-8688</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>4234</Number>
