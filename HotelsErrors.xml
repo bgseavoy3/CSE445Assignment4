@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
-  <Hotels Rating=3.5> <!-- Error 1-->
+  <Hotels Rating="3.5"> <!-- Error 1-->
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -12,7 +12,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.0>
+  <Hotel Rating="4.0">
     <Name>Embassy Sonesta ES Suites Tempe</Name>
     <Phone>480-756-2122</Phone>
     <Address> <!-- Error 2 -->
@@ -24,7 +24,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=3.0>
+  <Hotel Rating="3.0">
     <Name>Motel 6 Phoenix Tempe - Broadway - Asu</Name>
     <!-- Error 3 -->
     <Address NearestAirport="Sky Harbor">
@@ -36,7 +36,7 @@
     </Address>
   </Hotel>
       
-  <Hotel Rating=4.5>
+  <Hotel Rating="4.5">
     <Name>Fairfield Inn & Suites ny Mariott Phoenix Tempe</Name>
     <Phone>480-967-7161</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -48,7 +48,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.0>
+  <Hotel Rating="4.0">
     <Name>DoubleTree by Hilton Hotel Phoenix Tempe</Name>
     <Name>SingleTree by Hiton Hotel Phoenix Tempe</Name> <!-- Error 5 -->
     <Phone>480-967-1441</Phone>
@@ -61,7 +61,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.0>
+  <Hotel Rating="4.0">
     <Name>Mariott Phoenix Resport Tempe at the Buttes</Name>
     <Phone>602-225-9000</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -73,7 +73,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.5>
+  <Hotel Rating="4.5">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -85,7 +85,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.5>
+  <Hotel Rating="4.5">
     <Name>Hampton Inn & Suites Phoenix Tempe</Name>
     <Phone>480-941-3441</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -97,7 +97,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.0>
+  <Hotel Rating="4.0">
     <Name>Parkview Scottsdale Resort</Name>
     <Phone>602-941-1202</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -109,7 +109,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating=4.0>
+  <Hotel Rating="4.0">
     <Name>GrenTree Inn & Suites Phoenix Sky Harbor</Name>
     <Phone>602-438-8688</Phone>
     <Address NearestAirport="Sky Harbor">
